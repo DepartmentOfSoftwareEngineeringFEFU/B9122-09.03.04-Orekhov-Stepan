@@ -19,7 +19,7 @@
   evacuation_simulator/
   photo/
   DEPLOYMENT.md
-  program_solution_screenshots.docx
+  screenshots.docx
 ```
 
 Все команды ниже выполняются из корня этой папки, где лежит каталог `evacuation_simulator`.
@@ -113,7 +113,7 @@ PNG-файлы со скриншотами лежат в папке:
 Отдельный Word-файл со скриншотами:
 
 ```text
-./program_solution_screenshots.docx
+./screenshots.docx
 ```
 
 ## Ограничения
